@@ -2,55 +2,64 @@
     {
         "id": 1,
         "name": "Engagement Ring",
-        "expretion": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
-        "img": "https://buthydro.sirv.com/wedding/service/wedding-ring-1.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/wedding-ring-1.jpg",
+        "price": "34$"
     },
     {
         "id": 2,
         "name": "Engage Time",
-        "expretion": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://buthydro.sirv.com/wedding/service/engase-time-2.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/engase-time-2.jpg",
+        "price": "50$"
     },
     {
         "id": 3,
         "name": "Engaged",
-        "expretion": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
-        "img": "https://buthydro.sirv.com/wedding/service/engased-3.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/engased-3.jpg",
+        "price": "45$"
     },
     {
         "id": 4,
         "name": "Hannah",
-        "expretion": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
-        "img": "https://buthydro.sirv.com/wedding/service/hannah-4.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/hannah-4.jpg",
+        "price": "30$"
     },
     {
         "id": 5,
         "name": "Signing For Goal",
-        "expretion": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
-        "img": "https://buthydro.sirv.com/wedding/service/signing-5.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/signing-5.jpg",
+        "price": "20$"
     },
     {
         "id": 6,
         "name": "Wedding Moment",
-        "expretion": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
-        "img": "https://buthydro.sirv.com/wedding/service/wedding-6.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/wedding-6.jpg",
+        "price": "35$"
     },
     {
         "id": 7,
         "name": "Celebreting",
-        "expretion": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://buthydro.sirv.com/wedding/service/celibreting-7.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/celibreting-7.jpg",
+        "price": "40$"
     },
     {
         "id": 8,
         "name": "Celebrating",
-        "expretion": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
-        "img": "https://buthydro.sirv.com/wedding/service/celibreting-8.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/celibreting-8.jpg",
+        "price": "25$"
     },
     {
         "id": 9,
         "name": "Happy Wedding",
-        "expretion": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
-        "img": "https://buthydro.sirv.com/wedding/service/pleasure-9.jpg"
+        "expression": "Let love blossom all over again as you reminisce about your big day with these wedding quotes.",
+        "img": "https://buthydro.sirv.com/wedding/service/pleasure-9.jpg",
+        "price": "30$"
     }
 ]

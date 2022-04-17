@@ -1,12 +1,12 @@
 import React from 'react';
-import Service from '../Service/Service';
+import Services from '../Services/Services';
 import Bennar from '../Shared/Bennar/Bennar';
 
 const Home = () => {
     return (
         <div>
             <Bennar></Bennar>
-            <Service></Service>
+            <Services></Services>
         </div>
     );
 };
