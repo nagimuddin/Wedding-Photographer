@@ -6,7 +6,7 @@ import logo from '../../../images/logo (1).png'
 
 const Header = () => {
   return (
-    <Navbar bg="info" variant="dark">
+    <Navbar bg="info" sticky="top" variant="dark">
     <Container>
   <Navbar.Brand as={Link} to="/" className="fs-3">
     <img src={logo} alt="" />
@@ -17,7 +17,7 @@ const Header = () => {
       <Nav.Link as={Link} to="/">Home</Nav.Link>
       <Nav.Link as={Link} to="/service">Sevice</Nav.Link>
       <Nav.Link as={Link} to="/login">Login</Nav.Link>
-      <Nav.Link as={Link} to="/blogs">Blogs</Nav.Link>
+      <Nav.Link as={Link} to="/blog">Blog</Nav.Link>
       <Nav.Link as={Link} to="/aboutme">About Me</Nav.Link>
     </Nav>
   </Navbar.Collapse>
