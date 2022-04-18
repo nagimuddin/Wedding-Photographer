@@ -4,53 +4,53 @@ const Register = () => {
     return (
         <div className="w-50 m-auto text-primary">
         <h2>Please Rgister Here</h2>
-        <form>
+        <from>
           <div className="mb-3">
-            <label for="exampleInputEmail1" className="form-label">
+            <label htmlFor="exampleInputEmail1" className="from-label">
               Name
             </label>
             <input
               type="email"
-              className="form-control"
+              className="from-control"
               id="exampleInputEmail1"
               aria-describedby="emailHelp"
             />
           </div>
           <div className="mb-3">
-            <label for="exampleInputEmail1" className="form-label">
+            <label htmlFor="exampleInputEmail1" className="from-label">
               Email
             </label>
             <input
               type="email"
-              className="form-control"
+              className="from-control"
               id="exampleInputEmail1"
               aria-describedby="emailHelp"
             />
           </div>
           <div className="mb-3">
-            <label for="exampleInputPassword1" className="form-label">
+            <label htmlFor="exampleInputPassword1" className="from-label">
               Password
             </label>
             <input
               type="password"
-              className="form-control"
+              className="from-control"
               id="exampleInputPassword1"
             />
           </div>
-          <div className="mb-3 form-check">
+          <div className="mb-3 from-check">
             <input
               type="checkbox"
-              className="form-check-input"
+              className="from-check-input"
               id="exampleCheck1"
             />
-            <label className="form-check-label" for="exampleCheck1">
+            <label className="from-check-label" htmlFor="exampleCheck1">
               Check me out
             </label>
           </div>
           <button type="submit" className="btn btn-primary">
             Submit
           </button>
-        </form>
+        </from>
       </div>
     );
 };

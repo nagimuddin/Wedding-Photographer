@@ -1,11 +1,21 @@
-import React from "react";
+import React from 'react';
 
-const Login = () => {
-  return (
-    <div className="w-50 m-auto text-primary">
-      <h2>Please Login Here</h2>
+const CheckOut = () => {
+    
+    return (
+        <div className="w-50 m-auto text-primary">
+      <h2>Check Out</h2>
       <form>
         <div className="mb-3">
+        <label htmlFor="exampleInputEmail1" className="form-label">
+            Name
+          </label>
+          <input
+            type="text"
+            className="form-control"
+            id="exampleInputEmail1"
+            aria-describedby="emailHelp"
+          />
           <label htmlFor="exampleInputEmail1" className="form-label">
             Email address
           </label>
@@ -44,5 +54,4 @@ const Login = () => {
     </div>
   );
 };
-
-export default Login;
+export default CheckOut;
