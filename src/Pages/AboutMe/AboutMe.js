@@ -7,15 +7,15 @@ const AboutMe = () => {
       <div className="container">
         <div className="row">
           <div className="col">
-            <div class="card mt-5">
-              <div class="row g-0">
-                <div class="col-md-2 bg-light">
-                  <img src={myphoto} class="img-fluid rounded-start" alt="..." />
+            <div className="card mt-5">
+              <div className="row g-0">
+                <div className="col-md-2 bg-light">
+                  <img src={myphoto} className="img-fluid rounded-start" alt="..." />
                 </div>
-                <div class="col-md-10">
-                  <div class="card-body">
-                    <h5 class="card-title fs-1 text-primary">Put your best foot forward</h5>
-                    <p class="card-text fs-5">
+                <div className="col-md-10">
+                  <div className="card-body">
+                    <h5 className="card-title fs-1 text-primary">Put your best foot forward</h5>
+                    <p className="card-text fs-5">
                       I'm a Comilla native and am interested in this opportunity because
                       it seems like the perfect fit for my skill set. I really like Web
                       Developing I knew about the course from my cousine, and attained
